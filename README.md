@@ -8,6 +8,12 @@
 
 ⚠️ *For educational purposes only. It is not a substitute for professional medical advice.*
 
+## 🚀 Live Demo
+
+Try the application here:
+
+[🌐 Open Disease Prediction System](https://diseasepredictionapp-tvzamuxfhfngyb5dznpkh7.streamlit.app/)
+
 ## ✨ Features
 
 - 🔍 Search and select symptoms
